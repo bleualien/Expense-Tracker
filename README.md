@@ -1,29 +1,31 @@
-Expense Tracker
+# 📊 Expense Tracker
 
-The Expense Tracker is a simple console-based desktop application (not a website) built with Java and MySQL. It’s designed to help you keep track of daily expenses in an organized way, while also being a great practice project for learning how Java connects with databases.
+**Expense Tracker** is a simple **console-based desktop application** (not a website) built with **Java** and **MySQL**. It helps you manage daily expenses in an organized and easy-to-use way while also serving as a great project to learn how Java interacts with databases.
 
-What it does
+---
 
-Lets you add expenses by entering a category, name, and amount.
+## Features
+- **Add Expenses:** Enter a category, name, and amount for each expense.  
+- **View Expenses:** See all your expenses stored in the database in a clear list.  
+- **Delete Expenses:** Remove expenses you no longer need.  
+- **Menu-Driven Interface:** Navigate easily with numbered options.  
 
-Allows you to view all your expenses stored in the database.
+---
 
-Gives you the option to delete expenses when you don’t need them anymore.
+## Purpose
+This project is designed for:  
+- Beginners learning **Java JDBC and MySQL** integration.  
+- Anyone who wants a **basic tool to track personal expenses**.  
+- Developers looking for a foundation to build **more advanced finance applications** in the future.  
 
-Runs on a clean, menu-based interface, so you just choose a number to perform an action.
+---
 
-Why this project
+## Future Improvements
+- Generate **weekly or monthly expense reports**.  
+- Categorize and summarize expenses by type.  
+- Add a **graphical user interface (GUI)** for easier use.  
+- Export expenses to **CSV or PDF** files.  
 
-I built this as a basic personal finance manager and also as a way to practice Java + MySQL (JDBC). It’s simple, but useful if you want a starting point for tracking expenses or learning database integration with Java.
+---
 
-Future ideas
-
-In the future, this project could be extended with:
-
-Monthly or weekly reports
-
-Expense summaries by category
-
-A proper GUI instead of console menus
-
-Export options (CSV, PDF, etc.)
+This project is simple, practical, and perfect for learning while keeping track of your personal finances.
